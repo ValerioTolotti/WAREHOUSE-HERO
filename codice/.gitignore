@@ -22,3 +22,26 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Artefatti di build Maven 
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# File locali e preferenze di Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+bin/
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# File di sistema (Windows / macOS / Linux)
+Thumbs.db
+.DS_Store
