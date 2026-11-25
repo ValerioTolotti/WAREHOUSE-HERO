@@ -47,7 +47,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 1136,
+											"left": 1168,
 											"top": 272,
 											"height": 13
 										},
@@ -58,7 +58,7 @@
 												"$ref": "AAAAAAGh7jGcViilkes="
 											},
 											"font": "Arial;13;1",
-											"left": 605,
+											"left": 621,
 											"top": 87,
 											"width": 1039,
 											"height": 13,
@@ -72,7 +72,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 1136,
+											"left": 1168,
 											"top": 272,
 											"width": 80.9072265625,
 											"height": 13,
@@ -86,14 +86,14 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 1136,
+											"left": 1168,
 											"top": 272,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 600,
+									"left": 616,
 									"top": 80,
 									"width": 1049,
 									"height": 25,
@@ -112,7 +112,7 @@
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 600,
+							"left": 616,
 							"top": 80,
 							"width": 1049,
 							"height": 1057,
@@ -2115,7 +2115,7 @@
 											"top": 651.5,
 											"width": 345,
 											"height": 13,
-											"text": "Consultare Inventario Ordini e Giacenze FermoDeposito"
+											"text": "Consultare Inventario Giacenze FermoDeposito"
 										},
 										{
 											"_type": "LabelView",
@@ -2148,7 +2148,7 @@
 									"font": "Arial;13;0",
 									"left": 826,
 									"top": 644.5,
-									"width": 356.01708984375,
+									"width": 355,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGh7mkp5itwBlw="
@@ -9166,7 +9166,7 @@
 							"top": 560,
 							"width": 185,
 							"height": 64,
-							"text": "Extension point: Si può filtrare l'inventario sia dell'operatore sia del FermoDeposito"
+							"text": "Extension point: Si può filtrare l'inventario del FermoDeposito"
 						},
 						{
 							"_type": "UMLNoteLinkView",
@@ -10043,7 +10043,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGh7ikleyid8rY="
 					},
-					"name": "Consultare Inventario Ordini e Giacenze FermoDeposito"
+					"name": "Consultare Inventario Giacenze FermoDeposito"
 				},
 				{
 					"_type": "UMLUseCase",
